@@ -1,3 +1,3 @@
 # menu
 
-Made for keeping and filtering recipes.
+Made for keeping and filtering recipes. v1.0.0
